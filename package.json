@@ -1,0 +1,16 @@
+{
+  "name": "accounts",
+  "version": "1.0.0",
+  "description": "Projeto de criacao de conta no banco",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "williambraz65@gmail.com",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "inquirer": "^8.2.0"
+  }
+}
